@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 - 📫 How to reach me: naufalaf86@mgmail.com
-- 🔭 I’m currently study on Muhammadiyah Univerisity of Magelang
+- 🔭 I’m currently study at Muhammadiyah Univerisity of Magelang
 
 <!--
 **justnaf/justnaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
